@@ -11,7 +11,6 @@ User-Friendly Design: Clean and responsive UI for all devices.
 
 
 How to Use      
-
 Enter the name of a city in the input field.
 Click the Search button.
 View the current weather data for the specified city.
