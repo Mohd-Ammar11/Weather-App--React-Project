@@ -4,20 +4,17 @@ This project is a responsive and interactive Weather App built using ReactJS. Th
 
 
 
-Features
-
+Features     
 Search Functionality: Input a city name to fetch its real-time weather.
-
 Weather Details: Displays temperature, humidity, minimum and maximum temperatures, and weather descriptions.
-
 User-Friendly Design: Clean and responsive UI for all devices.
 
-How to Use
+
+How to Use      
 
 Enter the name of a city in the input field.
-
 Click the Search button.
-
 View the current weather data for the specified city.
+
 ![Weather App](https://github.com/user-attachments/assets/6f1af523-68f7-4342-aefe-b685a189e874)
 
