@@ -22,7 +22,7 @@ This app blends modern design with powerful functionality, showcasing the potent
 
 💬 Feedback is Welcome!     
 
-Youtube Video Link ->  https://youtu.be/kpjJ3Y9llBU   
+Video Link ->  https://drive.google.com/file/d/1KwTdAGcH4Wtyhl0y8rPoh1W9kkMucDAN/view?usp=sharing
 
 ![Weather App](https://github.com/user-attachments/assets/6f1af523-68f7-4342-aefe-b685a189e874)
 
